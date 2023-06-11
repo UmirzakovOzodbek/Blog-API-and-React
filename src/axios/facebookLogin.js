@@ -18,4 +18,5 @@ const facebookLogin = (accesstoken) => {
 		});
 };
 
+
 export default facebookLogin;
